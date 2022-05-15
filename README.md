@@ -1,1 +1,1 @@
-# jwt-auth
+# JSON Web Token Authentication
