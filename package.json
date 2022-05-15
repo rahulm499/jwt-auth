@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulm499/jwt-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulm499/jwt-auth/issues"
+  },
+  "homepage": "https://github.com/rahulm499/jwt-auth#readme"
 }
