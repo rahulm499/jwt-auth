@@ -27,7 +27,7 @@ router
                 res.json({username: user.username, college: user.college});
             })
         } catch (error) {
-            res.status(401).json({message: 'Incorrect'});
+            res.status(401).json({message: 'Please Login'});
         }
         
 })
